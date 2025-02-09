@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey, You found me! 👐🏾 I'm Tilani - Welcome to my profile 
 
+- 👩🏽‍🔬 I'm a Biomedical Scientist based in the UK with a passion for uncovering insights from healthcare data. 
+- 🌱 I'm currently building my project portfolio to showcase the work I've done during the LSE Data Analytics Course - and soon, my personal projects as well.
 <!--
 **TilaniDW/tilanidw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
